@@ -1,5 +1,5 @@
 #Mybatis-Generator
 
-#ÔÚGoals¿òÖĞÊäÈë£ºmybatis-generator:generate 
+#åœ¨Goalsæ¡†ä¸­è¾“å…¥ï¼šmybatis-generator:generate 
 
 #mvn mybatis-generator:generate
